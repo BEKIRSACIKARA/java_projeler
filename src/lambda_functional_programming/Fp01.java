@@ -167,7 +167,11 @@ git add README.md
 git commit -m "ilk taahhüt"
 git branch -M main
 git remote add Origin https://github.com/BEKIRSACIKARA/java_projeler.git
- git push - asıl sen*/
+ git push - asıl sen
+ error: remote origin already exists.
+error: failed to push some refs to
+
+ */
 
 
 
